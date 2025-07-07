@@ -36,6 +36,16 @@ https://learn.microsoft.com/pt-br
 Trabalhar com entidades e variáveis no Microsoft Copilot Studio: https://learn.microsoft.com/pt-br/training/modules/power-virtual-agents-entities/
 Prompt: https://aka.ms/power-prompts
 
+Atualização Jul/2025 
+O projeto como chatbot no whatsApp era inviável, pela limitação. No excel, ou redes sociais como Facebook, não seria funcional; visto o público alvo. Os jovens da nossa escola, não utilizam muito o facebook e não tem familiaridade com excel ou pacote offices. 
+Esse projeto foi modificado, primeiro visto um domínio que fosse fácil acesso para explorar as opções de livros, da biblioteca. Utilizando o banco de dados em excel, que nossos alunos catalogaram.
+
+PROTÓTIPO:https://biblioteca-zenaide.glide.page
+Utilizando Glide
+
+Segundo passo será criar um sistema que automatize o controle de empréstimos de livros.
+
+
 *Estou usando o GitHub para registrar esse projeto mas, agradeço muito contribuições para melhorar a ferramenta!*
 
 ![
